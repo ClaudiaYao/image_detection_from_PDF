@@ -1,0 +1,9 @@
+path: /Users/evansun/Documents/Claudia/object_detection/dataset
+train: images/train
+val: images/val
+
+
+names:
+  0: image
+  1: table
+  2: algorithm
